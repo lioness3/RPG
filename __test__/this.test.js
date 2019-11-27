@@ -1,4 +1,4 @@
-import { Stuff } from './../src/js/stuff.js';
+import { Stuff } from './../src/business.js';
 
 describe('Stuff', () => {
 

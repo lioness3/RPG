@@ -1,28 +1,28 @@
-# _{NAME}_
+# _RPG_
 
 #### _Web application {INFORMATION}, {DATE} 2019_
 
-#### By _**Liam Kenna**_
+#### By _**Joann Carter**_
 
 ## Description
 
-_This site is {INFO}_
 
-* _{DETAILS}_
 
-_For example:_
+| Behavior  | Input   | Output  |
+|---|---|---|
+|generate different character types|||
+|characters should have different attributes|||
+|battle|||
+|level up with new abilities|||
+|buy/sell items that increase ability power|||
 
-| Input:  | Output:   |
-|---|---|
-|||
-|||
 
 _{DETAILS}_
 
 ## Setup/Installation Requirements
 
 * _Clone to local machine and open index.html in the browser_
-* _This site can be viewed in it's current form at https://LiamPKenna.github.io/{PROJECT}_
+* _This site can be viewed in it's current form at https://_
 
 
 _To explore the source code, feel free to browse on github or clone to your local machine_
@@ -33,7 +33,7 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_Any issues or concerns, please email liam@liamkenna.com_
+
 
 ## Technologies Used
 
@@ -42,5 +42,3 @@ _HTML, CSS, Bootstrap, jQuery, JavaScript_
 ### License
 
 *This software is available under the MIT License*
-
-Copyright (c) 2019 **_Liam Kenna_**
